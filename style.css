@@ -1,0 +1,23 @@
+header {
+    text-align: center;
+}
+h1 {
+    font-size: 4em;
+}
+p { 
+    padding-left: 5%; 
+    padding-right: 5%;
+}
+#image1 {
+    width: 500px;
+    
+}
+#image-container {
+    float: right;
+} 
+#big-container {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
